@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom Share Dialog</string>
+    <string name="share_title">Share</string>
+    <string name="share_more_options">More</string>
+</resources>
